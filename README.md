@@ -52,8 +52,28 @@ The objective is to evaluate customer churn from a business perspective, quantif
 - `powerbi/` — Power BI dashboard notes and files
 - `screenshots/` — portfolio screenshots of the completed work
 
+
 ## Project Status
 
-The project structure and analysis plan are complete. Data cleaning and analysis have not yet been performed, and no findings are reported at this stage.
+**Completed**
 
-> No synthetic customer data is included. The original source data should remain unchanged in `data/raw/` throughout the project.
+Successfully completed an end-to-end customer churn
+analysis using Python, SQL, and Power BI.
+
+Analyzed 7,043 customers, identified a 26.54% overall
+churn rate, and developed a two-page interactive
+Power BI dashboard.
+
+Identified high-risk customer segments and presented
+three data-driven business recommendations to improve
+customer retention and reduce revenue losses.
+
+## Power BI Dashboard Screenshots
+
+### Customer Churn Overview
+
+![Customer Churn Dashboard](screenshots/dashboard-overview.png)
+
+### Business Recommendations
+
+![Business Recommendations](screenshots/business-recommendations.png)
